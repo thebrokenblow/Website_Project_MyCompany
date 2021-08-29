@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+}
+li {
+    list-style: none;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+header {
+    width: 100%;
+    background: #000;
+    display: flex;
+}
+.header-logo {
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 800;
+    font-size: 24px;
+    cursor: pointer;
+    margin-top: 56px;
+    margin-left: 12%;
+}
