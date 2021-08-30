@@ -25,3 +25,63 @@ header {
     margin-top: 56px;
     margin-left: 12%;
 }
+nav {
+    margin-top: 56px;
+    margin-left: 29%;
+}
+.topnav a{
+    color: #fff;
+    text-align: center;
+    padding: 12px 16px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.topnav a:hover {
+    border-bottom: 3px solid #fcac45;
+}
+.topnav .icon {
+    display: none;
+}
+@media screen and (max-width: 1200px) {
+    nav {
+        margin-left: 20%;
+    } 
+}
+@media screen and (max-width: 1105px) {
+    nav {
+        margin-left: 10%;
+    }
+}
+@media screen and (max-width: 1010px) {
+    .topnav a {
+        display: none;
+    }
+    .topnav a.icon {
+        float: right;
+        margin-top: -17px;
+        display: block;
+        color: #fff;
+        font-size: 25px;
+    }
+    nav {
+        width: 100%;
+    }
+    .topnav.responsive {
+        position: relative;
+        top: 50px;
+        left: -200px;
+    }
+    header .topnav.responsive {
+        height: 340px;
+    }
+    .topnav.responsive a.icon {
+        position: absolute;
+        top: -50px;
+        right: -200px;
+    }
+    .topnav.responsive a {
+        float: none;
+        display: block;
+        text-align: left;
+    }
+}
