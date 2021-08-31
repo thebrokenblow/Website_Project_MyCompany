@@ -42,6 +42,59 @@ nav {
 .topnav .icon {
     display: none;
 }
+main {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+main .main-welcome {
+    background: #000;
+    text-align: center;
+    padding: 200px 0 250px 0;
+}
+main .main-welcome p {
+    color: #999999;
+    font-size: 20px;
+}
+main .main-welcome h1 {
+    color: #999999;
+    font-size: 44px;
+}
+.mycompany {
+    color: #fcac45;
+}
+.abot-company-text {
+    color: #fff;
+}
+.wrapper {
+    width: 90%;
+    margin: 0 auto;
+}
+main .main-about {
+    display: flex;
+    padding: 100px 0 100px 0;
+}
+.about-right {
+    margin-left: 175px;
+}
+.about-right h1 {
+    display: inline-block;
+    border-bottom: 3px solid #fcac45;
+    padding-bottom: 20px;
+    font-size: 23px;
+}
+.about-right p {
+    margin: 30px 0 30px 0;
+    color: #6c6c6c;
+    font-size: 17px;
+}
+.about-right li {
+    font-size: 15px;
+    margin-top: 10px;
+}
+.mw-100 {
+    min-width: 100%;
+}
 @media screen and (max-width: 1200px) {
     nav {
         margin-left: 20%;
@@ -83,5 +136,31 @@ nav {
         float: none;
         display: block;
         text-align: left;
+    }
+    main .main-welcome {
+        padding: 50px 0 50px 0;
+    }
+    main .main-welcome p {
+        font-size: 14px;
+    }
+    main .main-welcome h1 {
+        font-size: 25px;
+    }
+    .mw-100 {
+        max-width: 100%;
+    }
+    .main-about {
+        flex-direction: column;
+    }
+    .about-right {
+        text-align: center;
+        margin-left: 0;
+    }
+    .about-right li {
+        text-align: left;
+    }
+    .about-right h1 {
+        margin-top: 10px;
+        font-size: 20px;
     }
 }
