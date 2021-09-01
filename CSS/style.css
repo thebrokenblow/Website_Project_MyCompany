@@ -138,6 +138,25 @@ main .main-about {
 .about-position {
     font-size: 14px;
 }
+.services-cards {
+    text-align: center;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-column-gap: 20px;
+}
+.main-services h1 {
+    text-align: center;
+    padding: 100px 0 30px 0;
+}
+.main-services p {
+    text-align: center;
+    color: #6c6c6c;
+    margin-bottom: 100px;
+}
+.services-cards h4 {
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
 @media screen and (max-width: 1200px) {
     nav {
         margin-left: 20%;
@@ -208,5 +227,8 @@ main .main-about {
     }
     .team-cards {
         flex-direction: column;
+    }
+    .services-cards {
+        grid-template-columns: auto;
     }
 }
