@@ -91,9 +91,52 @@ main .main-about {
 .about-right li {
     font-size: 15px;
     margin-top: 10px;
+    color: #6c6c6c;
 }
 .mw-100 {
     min-width: 100%;
+}
+.main-team {
+    background: #000;
+    text-align: center;
+    padding: 100px 0 165px 0;
+    color: #fff;
+}
+.main-team h1 {
+    font-size: 44px;
+    padding-bottom: 30px;
+}
+.line {
+    width: 100px;
+    height: 3px;
+    background: #fcac45;
+    position: relative;
+    left: 45.5%;
+    margin-bottom: 85px;
+}
+.photo {
+    background: #d7d7d7;
+    width: 125px;
+    height: 125px;
+    border-radius: 50%;
+    margin: 20px auto;
+}
+.team-cards {
+    display: flex;
+}
+.card {
+    margin: 0 40px;
+}
+.name {
+    font-size: 20px;
+    margin-bottom: 7px;
+}
+.position {
+    font-size: 16px;
+    margin-bottom: 35px;
+}
+.about-position {
+    font-size: 14px;
 }
 @media screen and (max-width: 1200px) {
     nav {
@@ -162,5 +205,8 @@ main .main-about {
     .about-right h1 {
         margin-top: 10px;
         font-size: 20px;
+    }
+    .team-cards {
+        flex-direction: column;
     }
 }
