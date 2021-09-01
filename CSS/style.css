@@ -157,6 +157,34 @@ main .main-about {
     margin-top: 20px;
     margin-bottom: 15px;
 }
+.main-clients {
+    background: #000;
+    padding: 100px 0 205px 0;
+    color: #fff;
+    text-align: center;
+}
+.main-clients h1 {
+    margin-bottom: 30px;
+}
+.main-clients img {
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.main-testimonials {
+    background: #000;
+    text-align: center;
+    color: #fff;
+    padding-bottom: 170px;
+}
+.main-testimonials .testimonial {
+    text-transform: uppercase;
+    margin-bottom: 50px;
+}
+.main-testimonials h1 {
+    text-transform: uppercase;
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
 @media screen and (max-width: 1200px) {
     nav {
         margin-left: 20%;
