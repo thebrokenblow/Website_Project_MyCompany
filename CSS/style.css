@@ -33,6 +33,9 @@ h1:after {
     margin-top: 56px;
     margin-left: 12%;
 }
+.header-logo:after {
+    display: none
+}
 nav {
     margin-top: 56px;
     margin-left: 29%;
@@ -66,9 +69,10 @@ main .main-welcome p {
     padding-top: 20px;
 
 }
-main .main-welcome h1 {
+main .main-welcome h2 {
     color: #999999;
     font-size: 44px;
+    font-weight: initial;
 }
 .mycompany {
     color: #fcac45;
@@ -88,10 +92,15 @@ main .main-about {
     margin-left: 175px;
 }
 .about-right h1 {
+    font-weight: bold;
     display: inline-block;
     border-bottom: 3px solid #fcac45;
     padding-bottom: 20px;
     font-size: 25px;
+    color: #636363;
+}
+.about-us {
+    color: #000;
 }
 .about-right h1:after {
     display: none;
@@ -168,6 +177,9 @@ main .main-about {
     color: #fff;
     text-align: center;
 }
+.some-of {
+    font-weight: lighter;
+}
 .main-clients h1 {
     margin-bottom: 30px;
 }
@@ -180,6 +192,9 @@ main .main-about {
     text-align: center;
     color: #fff;
     padding-bottom: 170px;
+}
+.testimonial-span {
+    font-weight: lighter;
 }
 .main-testimonials .testimonial {
     text-transform: uppercase;
@@ -201,8 +216,12 @@ main .main-about {
     margin-bottom: 100px;
     color: #6c6c6c;
 }
+.take-a-look-at {
+    color: #636363;
+    font-weight: lighter;
+}
 .main-work img {
-    height: 250px;
+    height: 200px;
     width: 270px;
     margin-left: 10px;
     margin-top: 10px;
@@ -221,6 +240,7 @@ main .main-about {
 .contact-form h1 {
     color: #000;
     margin-bottom: 30px;
+    font-size: 34px;
 }
 .contact-form {
     padding: 100px 0 100px 0;
