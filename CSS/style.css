@@ -284,6 +284,22 @@ input[type=submit] {
     margin-right: 0;
     margin-top: 20px;
 }
+footer {
+    width: 100%;
+    height: auto;
+    background: #222222;
+    padding: 30px 0 30px 0;
+}
+.social {
+    display: flex;
+    justify-content: center;
+}
+.social img {
+    margin-left: 12px;
+}
+.social img:hover {
+    opacity: 0.6;
+}
 @media screen and (max-width: 1200px) {
     nav {
         margin-left: 20%;
