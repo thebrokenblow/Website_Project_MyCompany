@@ -1,4 +1,4 @@
-<img alt="Gatsby" src="IMG/main.png" />
+<img alt="My Company" src="IMG/main.png" />
 
 <h1 align="center">
   My Company
@@ -10,7 +10,7 @@
 
 ---
 <p align="center">
-<img alt="Artem Krasov" src="IMG/main1.png" />
+<img alt="My Company" src="IMG/main1.png" />
 </p>
 
 ---
