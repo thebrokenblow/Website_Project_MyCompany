@@ -1,4 +1,4 @@
-<img alt="My Company" src="IMG/main.png" />
+<img alt="My Company" src="https://github.com/thebrokenblow/Website_Project_MyCompany/blob/master/IMG/main.PNG?raw=true" />
 
 <h1 align="center">
   My Company
@@ -10,7 +10,7 @@
 
 ---
 <p align="center">
-<img alt="My Company" src="IMG/main1.png" />
+    <img alt="My Company" src="https://github.com/thebrokenblow/Website_Project_MyCompany/blob/master/IMG/main1.PNG?raw=true" />
 </p>
 
 ---
