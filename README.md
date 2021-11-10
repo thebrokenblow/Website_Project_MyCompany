@@ -1,8 +1,8 @@
 <img alt="My Company" src="https://github.com/thebrokenblow/Website_Project_MyCompany/blob/master/IMG/main.PNG?raw=true" />
 
-<h1 align="center">
-  My Company
-</h1>
+<h2 align="center"> Site header </h2>
+
+<h1 align="center">My Company</h1>
 
 ---
 
@@ -23,7 +23,7 @@ _ 𝘐𝘴 𝘵𝘩𝘪𝘴 𝘺𝘰𝘶𝘳 𝘧𝘪𝘳𝘴𝘵 𝘵𝘪𝘮�
 
 ## 🚀 Quick start
 
-1.  **Create a My Company site.**
+1. **Create a My Company site.**
 
     Use `git` and the My Company to create a new project
 
@@ -32,7 +32,7 @@ _ 𝘐𝘴 𝘵𝘩𝘪𝘴 𝘺𝘰𝘶𝘳 𝘧𝘪𝘳𝘴𝘵 𝘵𝘪𝘮�
     git clone thebrokenblow/Website_Project_MyCompany
     ```
 
-1.  **Start developing.**
+2. **Start developing.**
 
     Navigate into your new site’s directory and start it up.
 
@@ -41,4 +41,10 @@ _ 𝘐𝘴 𝘵𝘩𝘪𝘴 𝘺𝘰𝘶𝘳 𝘧𝘪𝘳𝘴𝘵 𝘵𝘪𝘮�
     start index.html
     ```
 
-1.  **Open the source code and start editing!**
+3. **Open the source code and start editing!**
+
+    <img alt="My Company" align="center" src="https://github.com/thebrokenblow/Website_Project_MyCompany/blob/master/IMG/photo-IDE-for-code-editing.PNG?raw=true" />
+
+4. **Finish!**
+
+   You can edit and add your chips to this project!
