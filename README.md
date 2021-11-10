@@ -1,4 +1,4 @@
-<img alt="My Company" src="https://github.com/thebrokenblow/Website_Project_MyCompany/blob/master/IMG/main.PNG?raw=true" />
+<img alt="My Company" src="https://github.com/thebrokenblow/Website_Project_MyCompany/blob/master/IMG/photo-of-the-site-header.PNG?raw=true" />
 
 <h2 align="center"> Site header </h2>
 
@@ -8,7 +8,7 @@
 𝘛𝘩𝘪𝘴 𝘱𝘳𝘰𝘫𝘦𝘤𝘵 𝘸𝘢𝘴 𝘤𝘳𝘦𝘢𝘵𝘦𝘥 𝘧𝘰𝘳 𝘵𝘳𝘢𝘪𝘯𝘪𝘯𝘨 𝘱𝘶𝘳𝘱𝘰𝘴𝘦𝘴 𝘧𝘰𝘳 𝘸𝘳𝘪𝘵𝘪𝘯𝘨 𝘵𝘩𝘦 𝘍𝘳𝘰𝘯𝘵𝘦𝘯𝘥 𝘱𝘢𝘳𝘵 𝘰𝘧 𝘵𝘩𝘦 𝘴𝘪𝘵𝘦.
 
 <p align="center">
-    <img alt="My Company" src="https://github.com/thebrokenblow/Website_Project_MyCompany/blob/master/IMG/main1.PNG?raw=true" />
+    <img alt="My Company" src="https://github.com/thebrokenblow/Website_Project_MyCompany/blob/master/IMG/photo-of-the%20main-part-of-the-site.PNG?raw=true" />
 </p>
 
 <h2 align="center"> The main part of the site </h2>
